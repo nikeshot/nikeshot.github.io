@@ -21,7 +21,7 @@
       "company": "Microsoft",
       "position": "Software Engineer - 2",
       "url": "https://microsoft.com",
-      "start_date": "04/01/2023",
+      "start_date": "1 Apr, 2023",
       "end_date": "Present",
       "summary": "Working on AI-driven developer productivity enhancements in Microsoft Teams and Azure DevOps.",
       "highlights": [
@@ -30,25 +30,74 @@
       ]
     },
     {
+      "company": "Microsoft",
+      "position": "Software Engineer - 2",
+      "url": "https://microsoft.com",
+      "start_date": "21 Jun, 2021",
+      "end_date": "31 Mar, 2023",
+      "summary": "Worked on optimizing developer workflows and improving monitoring systems for Microsoft Teams Engineering.",
+      "highlights": [
+        "Developed backend tools to enhance PR review efficiency, improving turnaround times for reviewer groups.",
+        "Implemented an advanced monitoring system for Teams Engineering Systems, reducing transient failures from 90% to 15% and improving alert management with Grafana dashboards."
+      ]
+    },
+    {
       "company": "Qualcomm",
       "position": "Senior Software Engineer",
       "url": "https://www.qualcomm.com",
-      "start_date": "12/01/2020",
-      "end_date": "06/01/2021",
-      "summary": "Worked on automation frameworks for Bluetooth log analysis and test system infrastructure.",
+      "start_date": "1 Dec, 2020",
+      "end_date": "20 Jun, 2021",
+      "summary": "Developed automation solutions for Bluetooth log analysis and test system infrastructure.",
       "highlights": [
-        "Developed a Python-based automation framework for Bluetooth end-to-end log analysis.",
-        "Managed test infrastructure by commissioning machines, developing test frameworks, and building full-stack applications."
+        "Worked on a Python-based automation framework for Bluetooth end-to-end log analysis.",
+        "Led the commissioning of machines and instruments for large-scale test automation.",
+        "Built full-stack applications to manage and troubleshoot test grid infrastructure."
+      ]
+    },
+    {
+      "company": "Qualcomm",
+      "position": "Software Engineer",
+      "url": "https://www.qualcomm.com",
+      "start_date": "1 May, 2019",
+      "end_date": "1 Dec, 2020",
+      "summary": "Worked on automation frameworks and infrastructure for Bluetooth testing and log analysis.",
+      "highlights": [
+        "Designed multiple auxiliary server applications and client interfaces to integrate with test automation systems.",
+        "Managed database optimizations and deployed applications as containers using Docker."
+      ]
+    },
+    {
+      "company": "Qualcomm",
+      "position": "Software Engineer",
+      "url": "https://www.qualcomm.com",
+      "start_date": "1 Dec, 2018",
+      "end_date": "30 Apr, 2019",
+      "summary": "Developed Python modules for automated log analysis, reducing manual debugging efforts.",
+      "highlights": [
+        "Worked on automated log analysis framework to capture failures and reduce man-hours needed for analysis.",
+        "Designed and maintained Python modules to enhance testing and bug diagnosis efficiency."
+      ]
+    },
+    {
+      "company": "Qualcomm",
+      "position": "Associate Software Engineer",
+      "url": "https://www.qualcomm.com",
+      "start_date": "1 Jul, 2017",
+      "end_date": "30 Nov, 2018",
+      "summary": "Contributed to log analysis automation and customer integration efforts in UMTS technology.",
+      "highlights": [
+        "Identified and analyzed multiple failure areas to improve coverage for legacy UMTS systems.",
+        "Developed an integrated state-machine framework using Python for automated log analysis and decision-making."
       ]
     }
-  ],
+  ],  
   "volunteer_experience": [
     {
       "organization": "Prayaas",
       "position": "Coordinator",
       "url": "https://prayaas.iiita.ac.in/",
-      "start_date": "30/07/2014",
-      "end_date": "30/04/2017",
+      "start_date": "30 Jul, 2015",
+      "end_date": "23 Apr, 2017",
       "summary": "A volunteer movement by IIIT Allahabad students aimed at improving the quality of life for underprivileged kids.",
       "highlights": [
         "Led initiatives to provide education and resources to children in need.",
@@ -65,7 +114,7 @@
       "degrees": [
         "Bachelor of Technology in Electronics and Communication Engineering"
       ],
-      "graduation_date": "06/01/2017"
+      "graduation_date": "30 Jun, 2017"
     }
   ],
   "skills": [
@@ -76,7 +125,7 @@
     },
     {
       "name": "Django",
-      "proficiency": 70,
+      "proficiency": 60,
       "proficiency_label": "Intermediate"
     },
     {
@@ -101,18 +150,18 @@
     },
     {
       "name": "Azure",
-      "proficiency": 70,
+      "proficiency": 90,
       "proficiency_label": "Intermediate"
     }
   ],
   "interests": [
     {
       "name": "Books",
-      "summary": "Enjoys reading books across various genres, including technology, AI, and fiction."
+      "summary": "Enjoys reading books across various genres, including technology and mythological fiction."
     },
     {
       "name": "Cricket",
-      "summary": "Passionate about cricket, enjoys both playing and following the sport."
+      "summary": "Passionate about cricket, I enjoy both playing and following the sport."
     }
   ],
   "languages": [

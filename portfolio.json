@@ -7,7 +7,7 @@
     "phone": "+917668984092",
     "location": "Bengaluru, Karnataka, India"
   },
-  "summary": "AI-focused Software Engineer with 5+ years of experience specializing in Python, Django, and AI-driven development. Currently at Microsoft, working on enhancing developer productivity by integrating AI into DevOps workflows. Designed and implemented an ML-based PR reviewer recommendation system and developed an AI-powered assistant for Azure DevOps. Previously at Qualcomm, built automation frameworks for Bluetooth log analysis and optimized large-scale test systems. Passionate about leveraging AI to streamline workflows, improve efficiency, and drive intelligent automation.",
+  "summary": "AI-focused Software Engineer with 7+ years of experience specializing in Python, Django, and AI-driven development. Currently at Microsoft, working on enhancing developer experience by integrating AI into developer workflows. Designed and implemented an ML-based PR reviewer recommendation system and developed an AI-powered assistant for Azure DevOps. Previously at Qualcomm, built automation frameworks for Bluetooth log analysis and optimized large-scale test systems. Passionate about leveraging AI to streamline workflows, improve efficiency, and drive interesting projects.",
   "base_url": "nikeshot.github.io",
   "social_links": [
     {
@@ -21,7 +21,7 @@
       "company": "Microsoft",
       "position": "Software Engineer - 2",
       "url": "https://microsoft.com",
-      "start_date": "04/01/2023",
+      "start_date": "1 Apr, 2023",
       "end_date": "Present",
       "summary": "Working on AI-driven developer productivity enhancements in Microsoft Teams and Azure DevOps.",
       "highlights": [
@@ -30,25 +30,74 @@
       ]
     },
     {
+      "company": "Microsoft",
+      "position": "Software Engineer - 2",
+      "url": "https://microsoft.com",
+      "start_date": "21 Jun, 2021",
+      "end_date": "31 Mar, 2023",
+      "summary": "Worked on optimizing developer workflows and improving monitoring systems for Microsoft Teams Engineering.",
+      "highlights": [
+        "Developed backend tools to enhance PR review efficiency, improving turnaround times for reviewer groups.",
+        "Implemented an advanced monitoring system for Teams Engineering Systems, reducing transient failures from 90% to 15% and improving alert management with Grafana dashboards."
+      ]
+    },
+    {
       "company": "Qualcomm",
       "position": "Senior Software Engineer",
       "url": "https://www.qualcomm.com",
-      "start_date": "12/01/2020",
-      "end_date": "06/01/2021",
-      "summary": "Worked on automation frameworks for Bluetooth log analysis and test system infrastructure.",
+      "start_date": "1 Dec, 2020",
+      "end_date": "20 Jun, 2021",
+      "summary": "Developed automation solutions for Bluetooth log analysis and test system infrastructure.",
       "highlights": [
-        "Developed a Python-based automation framework for Bluetooth end-to-end log analysis.",
-        "Managed test infrastructure by commissioning machines, developing test frameworks, and building full-stack applications."
+        "Worked on a Python-based automation framework for Bluetooth end-to-end log analysis.",
+        "Led the commissioning of machines and instruments for large-scale test automation.",
+        "Built full-stack applications to manage and troubleshoot test grid infrastructure."
+      ]
+    },
+    {
+      "company": "Qualcomm",
+      "position": "Software Engineer",
+      "url": "https://www.qualcomm.com",
+      "start_date": "1 May, 2019",
+      "end_date": "1 Dec, 2020",
+      "summary": "Worked on automation frameworks and infrastructure for Bluetooth testing and log analysis.",
+      "highlights": [
+        "Designed multiple auxiliary server applications and client interfaces to integrate with test automation systems.",
+        "Managed database optimizations and deployed applications as containers using Docker."
+      ]
+    },
+    {
+      "company": "Qualcomm",
+      "position": "Software Engineer",
+      "url": "https://www.qualcomm.com",
+      "start_date": "1 Dec, 2018",
+      "end_date": "30 Apr, 2019",
+      "summary": "Developed Python modules for automated log analysis, reducing manual debugging efforts.",
+      "highlights": [
+        "Worked on automated log analysis framework to capture failures and reduce man-hours needed for analysis.",
+        "Designed and maintained Python modules to enhance testing and bug diagnosis efficiency."
+      ]
+    },
+    {
+      "company": "Qualcomm",
+      "position": "Associate Software Engineer",
+      "url": "https://www.qualcomm.com",
+      "start_date": "1 Jul, 2017",
+      "end_date": "30 Nov, 2018",
+      "summary": "Contributed to log analysis automation and customer integration efforts in UMTS technology.",
+      "highlights": [
+        "Identified and analyzed multiple failure areas to improve coverage for legacy UMTS systems.",
+        "Developed an integrated state-machine framework using Python for automated log analysis and decision-making."
       ]
     }
-  ],
+  ],  
   "volunteer_experience": [
     {
       "organization": "Prayaas",
       "position": "Coordinator",
-      "url": "https://sample.com",
-      "start_date": "01/01/2015",
-      "end_date": "01/01/2017",
+      "url": "https://prayaas.iiita.ac.in/",
+      "start_date": "30 Jul, 2015",
+      "end_date": "23 Apr, 2017",
       "summary": "A volunteer movement by IIIT Allahabad students aimed at improving the quality of life for underprivileged kids.",
       "highlights": [
         "Led initiatives to provide education and resources to children in need.",
@@ -65,7 +114,7 @@
       "degrees": [
         "Bachelor of Technology in Electronics and Communication Engineering"
       ],
-      "graduation_date": "06/01/2017"
+      "graduation_date": "30 Jun, 2017"
     }
   ],
   "skills": [
@@ -76,7 +125,7 @@
     },
     {
       "name": "Django",
-      "proficiency": 70,
+      "proficiency": 60,
       "proficiency_label": "Intermediate"
     },
     {
@@ -101,18 +150,18 @@
     },
     {
       "name": "Azure",
-      "proficiency": 70,
+      "proficiency": 90,
       "proficiency_label": "Intermediate"
     }
   ],
   "interests": [
     {
       "name": "Books",
-      "summary": "Enjoys reading books across various genres, including technology, AI, and fiction."
+      "summary": "Enjoys reading books across various genres, including technology and mythological fiction."
     },
     {
       "name": "Cricket",
-      "summary": "Passionate about cricket, enjoys both playing and following the sport."
+      "summary": "Passionate about cricket, I enjoy both playing and following the sport."
     }
   ],
   "languages": [
@@ -134,6 +183,11 @@
       "name": "Valerio Canova",
       "relation": "Senior Staff Engineer, Qualcomm",
       "reference": "My team operated in tandem with a complementary one in India. We both looked after a test system infrastructure: commissioning machines and instruments, developing the test framework, developing full-stack applications to manage and troubleshoot the grid. Niketan's contributions to full-stack applications have been key to success. I provided high-level requirements, he drove most of the software design, and liaised with IT and other teams to gather the necessary resources and information. He performed very well with little supervision and has all in all been a pleasure to work with."
+    },
+    {
+      "name": "Santoh Mathew",
+      "relation": "Senior Manager, Qualcomm",
+      "reference": "Niketan joined my team with strong Python coding skills, which he applied effectively in automation development for Qualcomm earbud products. He quickly adapted to new areas, delivering consistently excellent results. His meticulous documentation and clear communication set a high standard, benefiting both our team and cross-functional counterparts. A reliable problem-solver, Niketan’s incisive thinking and technical expertise made him a valuable asset. His ability to work seamlessly in both remote and in-office settings further showcased his adaptability and professionalism."
     }
   ]
 }

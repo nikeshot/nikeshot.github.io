@@ -1,224 +1,139 @@
 {
-  "name": "Your Name",
-  "label": "Optional Label",
-  "image_path": "img/default-image.png",
+  "name": "Niketan Rane",
+  "label": "Software Engineer",
+  "image_path": "img/niketan_image.png",
   "contact": {
-    "email": "FirstLast@Sample.com",
-    "phone": "123-456-7890",
-    "location": "City, State, Country"
+    "email": "niketanrane05@gmail.com",
+    "phone": "+917668984092",
+    "location": "Bengaluru, Karnataka, India"
   },
-  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
-  "base_url": "127.0.0.1:5500",
+  "summary": "AI-focused Software Engineer with 5+ years of experience specializing in Python, Django, and AI-driven development. Currently at Microsoft, working on enhancing developer productivity by integrating AI into DevOps workflows. Designed and implemented an ML-based PR reviewer recommendation system and developed an AI-powered assistant for Azure DevOps. Previously at Qualcomm, built automation frameworks for Bluetooth log analysis and optimized large-scale test systems. Passionate about leveraging AI to streamline workflows, improve efficiency, and drive intelligent automation.",
+  "base_url": "nikeshot.github.io",
   "social_links": [
     {
-      "label": "Personal Website",
-      "url": "https://sample.com",
-      "svg_path": "img/globe.svg"
-    },
-    {
-      "label": "First Social",
-      "url": "https://sample.com",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/niketanrane/",
       "svg_path": "img/linkedin.svg"
-    },
-    {
-      "label": "Second Social",
-      "url": "https://sample.com",
-      "svg_path": "img/github.svg"
     }
   ],
   "work_experience": [
     {
-      "company": "Latest Job",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
+      "company": "Microsoft",
+      "position": "Software Engineer - 2",
+      "url": "https://microsoft.com",
+      "start_date": "04/01/2023",
       "end_date": "Present",
-      "summary": "Short summary about present job and what the position entails",
+      "summary": "Working on AI-driven developer productivity enhancements in Microsoft Teams and Azure DevOps.",
       "highlights": [
-        "First Duty of Current Job",
-        "Second Duty of Current Job",
-        "Third Duty of Current Job"
+        "Designed and implemented an ML-based PR reviewer recommendation system to improve PR turnaround time.",
+        "Integrated an AI-powered assistant into Azure DevOps using Azure OpenAI to enable contextual queries on PRs and work items."
       ]
     },
     {
-      "company": "Previous Job",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous job and what that position entailed",
+      "company": "Qualcomm",
+      "position": "Senior Software Engineer",
+      "url": "https://www.qualcomm.com",
+      "start_date": "12/01/2020",
+      "end_date": "06/01/2021",
+      "summary": "Worked on automation frameworks for Bluetooth log analysis and test system infrastructure.",
       "highlights": [
-        "First Duty of Previous Job",
-        "Second Duty of Previous Job",
-        "Third Duty of Previous Job"
-      ]
-    }
-  ],
-  "projects": [
-    {
-      "title": "My First Project",
-      "summary": "Short summary about my first project",
-      "url": "https://sample.com",
-      "highlights": [
-        "First Highlight of Project One",
-        "Second Highlight of Project One",
-        "Third Highlight of Project One"
-      ],
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=1",
-          "caption": "Image Caption 1"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=2",
-          "caption": "Image Caption 2"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=3",
-          "caption": "Image Caption 3"
-        }
-      ]
-    },
-    {
-      "title": "My Second Project",
-      "summary": "Short summary about my second project",
-      "url": "https://sample.com",
-      "highlights": [
-        "First Highlight of Project Two",
-        "Second Highlight of Project Two",
-        "Third Highlight of Project Two"
-      ],
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=4",
-          "caption": "Image Caption 4"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=5",
-          "caption": "Image Caption 5"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=6",
-          "caption": "Image Caption 6"
-        }
+        "Developed a Python-based automation framework for Bluetooth end-to-end log analysis.",
+        "Managed test infrastructure by commissioning machines, developing test frameworks, and building full-stack applications."
       ]
     }
   ],
   "volunteer_experience": [
     {
-      "organization": "Latest Organization",
-      "position": "Position One",
+      "organization": "Prayaas",
+      "position": "Coordinator",
       "url": "https://sample.com",
-      "start_date": "01/01/2020",
-      "end_date": "Present",
-      "summary": "Short summary about present volunteer work",
+      "start_date": "01/01/2015",
+      "end_date": "01/01/2017",
+      "summary": "A volunteer movement by IIIT Allahabad students aimed at improving the quality of life for underprivileged kids.",
       "highlights": [
-        "First Duty of Current Organization",
-        "Second Duty of Current Organization",
-        "Third Duty of Current Organization"
-      ]
-    },
-    {
-      "organization": "Previous Organization",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous volunteer work",
-      "highlights": [
-        "First Duty of Previous Organization",
-        "Second Duty of Previous Organization",
-        "Third Duty of Previous Organization"
+        "Led initiatives to provide education and resources to children in need.",
+        "Organized community outreach programs to support underprivileged students.",
+        "Collaborated with peers to expand the impact of Prayaas."
       ]
     }
   ],
   "education": [
     {
-      "institution": "Institution One",
-      "location": "Institution One Location",
-      "url": "https://sample.com",
+      "institution": "Indian Institute Of Information Technology, Allahabad",
+      "location": "Allahabad, India",
+      "url": "https://www.iiita.ac.in/",
       "degrees": [
-        "Master of Science in Computer Science",
-        "Minor in Mathematics"
+        "Bachelor of Technology in Electronics and Communication Engineering"
       ],
-      "honors": ["Outstanding Student Award", "Dean's List"],
-      "gpa_cumulative": "3.5",
-      "gpa_major": "4.0",
-      "graduation_date": "01/01/2005"
-    },
-    {
-      "institution": "Institution Two",
-      "location": "Institution Two Location",
-      "url": "https://sample.com",
-      "degrees": ["Bachelor of Science in Physics"],
-      "honors": ["Scholarship Recipient"],
-      "gpa_cumulative": "3.2",
-      "gpa_major": "3.9",
-      "graduation_date": "01/01/2000"
+      "graduation_date": "06/01/2017"
     }
   ],
   "skills": [
     {
-      "name": "My First Skill",
-      "proficiency": 100,
-      "proficiency_label": "Proficiency Level"
+      "name": "Python",
+      "proficiency": 80,
+      "proficiency_label": "Advanced"
     },
     {
-      "name": "My Second Skill",
-      "proficiency": 80,
-      "proficiency_label": "Proficiency Level"
+      "name": "Django",
+      "proficiency": 70,
+      "proficiency_label": "Intermediate"
+    },
+    {
+      "name": "C#",
+      "proficiency": 50,
+      "proficiency_label": "Beginner"
+    },
+    {
+      "name": "Machine Learning",
+      "proficiency": 85,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "AI",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "DevOps",
+      "proficiency": 75,
+      "proficiency_label": "Intermediate"
+    },
+    {
+      "name": "Azure",
+      "proficiency": 70,
+      "proficiency_label": "Intermediate"
     }
   ],
   "interests": [
     {
-      "name": "My First Hobby",
-      "summary": "Short summary about my first Hobby",
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=7",
-          "caption": "Image Caption 7"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=8",
-          "caption": "Image Caption 8"
-        }
-      ]
+      "name": "Books",
+      "summary": "Enjoys reading books across various genres, including technology, AI, and fiction."
     },
     {
-      "name": "My Second Hobby",
-      "summary": "Short summary about my second hobby",
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=9",
-          "caption": "Image Caption 9"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=10",
-          "caption": "Image Caption 10"
-        }
-      ]
+      "name": "Cricket",
+      "summary": "Passionate about cricket, enjoys both playing and following the sport."
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "language": "Marathi",
+      "fluency": "Native"
     },
     {
-      "language": "American Sign Language",
-      "fluency": "Professional Working Proficiency"
+      "language": "English",
+      "fluency": "Full Professional"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Full Professional"
     }
   ],
   "references": [
     {
-      "name": "Person One",
-      "relation": "Previous Boss",
-      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
-    },
-    {
-      "name": "Person Two",
-      "relation": "Previous Coworker",
-      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
+      "name": "Valerio Canova",
+      "relation": "Senior Staff Engineer, Qualcomm",
+      "reference": "My team operated in tandem with a complementary one in India. We both looked after a test system infrastructure: commissioning machines and instruments, developing the test framework, developing full-stack applications to manage and troubleshoot the grid. Niketan's contributions to full-stack applications have been key to success. I provided high-level requirements, he drove most of the software design, and liaised with IT and other teams to gather the necessary resources and information. He performed very well with little supervision and has all in all been a pleasure to work with."
     }
   ]
 }

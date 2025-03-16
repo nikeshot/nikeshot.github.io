@@ -7,7 +7,7 @@
     "phone": "+917668984092",
     "location": "Bengaluru, Karnataka, India"
   },
-  "summary": "AI-focused Software Engineer with 5+ years of experience specializing in Python, Django, and AI-driven development. Currently at Microsoft, working on enhancing developer productivity by integrating AI into DevOps workflows. Designed and implemented an ML-based PR reviewer recommendation system and developed an AI-powered assistant for Azure DevOps. Previously at Qualcomm, built automation frameworks for Bluetooth log analysis and optimized large-scale test systems. Passionate about leveraging AI to streamline workflows, improve efficiency, and drive intelligent automation.",
+  "summary": "AI-focused Software Engineer with 7+ years of experience specializing in Python, Django, and AI-driven development. Currently at Microsoft, working on enhancing developer experience by integrating AI into developer workflows. Designed and implemented an ML-based PR reviewer recommendation system and developed an AI-powered assistant for Azure DevOps. Previously at Qualcomm, built automation frameworks for Bluetooth log analysis and optimized large-scale test systems. Passionate about leveraging AI to streamline workflows, improve efficiency, and drive interesting projects.",
   "base_url": "nikeshot.github.io",
   "social_links": [
     {
@@ -46,9 +46,9 @@
     {
       "organization": "Prayaas",
       "position": "Coordinator",
-      "url": "https://sample.com",
-      "start_date": "01/01/2015",
-      "end_date": "01/01/2017",
+      "url": "https://prayaas.iiita.ac.in/",
+      "start_date": "30/07/2014",
+      "end_date": "30/04/2017",
       "summary": "A volunteer movement by IIIT Allahabad students aimed at improving the quality of life for underprivileged kids.",
       "highlights": [
         "Led initiatives to provide education and resources to children in need.",
@@ -134,6 +134,11 @@
       "name": "Valerio Canova",
       "relation": "Senior Staff Engineer, Qualcomm",
       "reference": "My team operated in tandem with a complementary one in India. We both looked after a test system infrastructure: commissioning machines and instruments, developing the test framework, developing full-stack applications to manage and troubleshoot the grid. Niketan's contributions to full-stack applications have been key to success. I provided high-level requirements, he drove most of the software design, and liaised with IT and other teams to gather the necessary resources and information. He performed very well with little supervision and has all in all been a pleasure to work with."
+    },
+    {
+      "name": "Santoh Mathew",
+      "relation": "Senior Manager, Qualcomm",
+      "reference": "Niketan joined my team with strong Python coding skills, which he applied effectively in automation development for Qualcomm earbud products. He quickly adapted to new areas, delivering consistently excellent results. His meticulous documentation and clear communication set a high standard, benefiting both our team and cross-functional counterparts. A reliable problem-solver, Niketan’s incisive thinking and technical expertise made him a valuable asset. His ability to work seamlessly in both remote and in-office settings further showcased his adaptability and professionalism."
     }
   ]
 }
